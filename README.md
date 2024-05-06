@@ -1,4 +1,7 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
+
+### NAME: SAIGURUCHANDRAN
+### REG NO: 212223240143
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
@@ -57,7 +60,7 @@ if __name__ == "__main__":
 
 ```
 ## OUTPUT
-![image](https://github.com/Saiguruchandran/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/144870946/5740ef79-2cf8-4610-9e8e-34965c0f86e6)
+![WhatsApp Image 2024-05-06 at 14 45 45_d83216d9](https://github.com/Saiguruchandran/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/144870946/d5080f53-3b7f-4709-b3f5-6b7460c86713)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
